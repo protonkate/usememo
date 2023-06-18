@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/usememo/static/css/main.073c9b0a.css",
+    "main.js": "/usememo/static/js/main.7d510529.js",
+    "index.html": "/usememo/index.html",
+    "main.073c9b0a.css.map": "/usememo/static/css/main.073c9b0a.css.map",
+    "main.7d510529.js.map": "/usememo/static/js/main.7d510529.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7d510529.js"
+  ]
+}
